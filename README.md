@@ -31,7 +31,5 @@ This repository contains:
 
 > I will update this table daily as I progress.
 
----
 
-## 📂 Folder Structure
 
