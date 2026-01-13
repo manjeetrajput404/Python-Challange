@@ -43,8 +43,8 @@ else:
 
     print(f"Total cost is ${cost}")
 
-    # -----------------------------------------------------------
-    # Problem 3
+# -----------------------------------------------------------
+# Problem 3
 # Pizza Delivery Program
 
 print("Welcome to Python Pizza Deliverable 🍕\n")
