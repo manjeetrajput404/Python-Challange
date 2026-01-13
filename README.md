@@ -1,79 +1,71 @@
-# 🐍 100 Days of Python – My Learning Journey
+# 🐍 100 Days of Python Coding Challenge
 
-Hi, I'm **Manjeet** 👋  
-I am learning Python step by step and uploading my **daily progress** to this GitHub repository.
-
-This repository is my **public learning journal** for the *100 Days of Python* challenge.
+Welcome to my **100 Days of Python Coding Challenge** repository! 🚀  
+This repo contains my **daily Python practice, projects, and learning progress** as I follow the Python course and improve my programming skills step by step.
 
 ---
 
-## 🚀 Why I Started This
+## 🎯 Goal
 
-- To build a **strong foundation in Python**
-- To become **consistent with daily coding**
-- To improve my **logic building and problem-solving skills**
-- To prepare myself for **projects, internships, and real-world development**
-- To complete the **100 Days of Python Challenge** successfully 💪
-
----
-
-## 📂 What This Repository Contains
-
-- ✅ Daily practice programs  
-- ✅ Mini projects (like Band Name Generator, Pizza Billing, etc.)  
-- ✅ Coding challenges  
-- ✅ Logic-building exercises  
-- ✅ Notes & experiments  
+- Build strong Python fundamentals
+- Practice coding **daily**
+- Complete small projects and challenges
+- Improve problem-solving and logic building
+- Become confident in Python for real-world projects
 
 ---
 
-## 🧠 What I’m Focusing On
 
-- Python basics & core concepts
-- Writing **clean and readable code**
-- Thinking like a **programmer**
-- Improving **problem-solving approach**
-- Learning by **building small projects**
+## 🗓️ Progress Tracker
 
----
-
-## 📅 Progress Tracker
-
-| Day | Topics Covered | Status |
-|-----|---------------|--------|
-| Day 1 | print(), variables, strings, input(), Band Name Generator | ✅ Completed |
-| Day 2 | Data types, type conversion, tip calculator | ✅ Completed |
-| Day 3 | Control flow, if-else, Roller Coaster & Pizza Billing Program | ✅ Completed |
-| Day 4 | Loops, random module (planned) | ⏳ Coming Soon |
-
-> I update this table regularly as I move forward in the challenge.
+| Day | Topic / Project | Status |
+|-----|----------------|---------|
+| Day 1 | Basics, Variables, Band Name Generator | ✅ Completed |
+| Day 2 | Data Types, Tip Calculator / Practice | ✅ Completed |
+| Day 3 | Control Flow, Conditions | ✅ Completed |
+| Day 4 | Rock Paper Scissors Game | ✅ Completed |
+| Day 5+ | Coming soon... | ⏳ In Progress |
 
 ---
 
-## 🛠️ Tools I’m Using
+## 🕹️ Projects Included
 
-- Python 🐍
+- 🎸 Band Name Generator
+- 🎮 Rock Paper Scissors Game (ASCII UI)
+- 🧮 More coming soon...
+
+---
+
+## 🛠️ Tools & Tech
+
+- Python 3.x
 - VS Code
 - Git & GitHub
 
 ---
 
-## 📈 My Promise to Myself
+## 📈 Why I'm Doing This
 
-> I will code **every day**, even if it’s just a small program.
+I am doing this challenge to:
 
-Consistency > Motivation.
-
----
-
-## 🌟 Final Goal
-
-To become a **confident Python programmer** and use these skills in:
-- Web development
-- Automation
-- Problem solving
-- Projects and internships
+- Stay consistent
+- Build discipline
+- Improve my coding skills daily
+- Prepare for internships and placements
+- Become a better software / web developer
 
 ---
 
-⭐ If you find this repository useful or motivating, feel free to star it!
+## 🌟 About Me
+
+Hi, I'm **Manjeet** 👋  
+I'm a Computer Science student learning **Python, JavaScript, Web Development, and SQL** and building my skills step by step.
+
+---
+
+## 📌 Note
+
+This repository is part of my **learning journey**.  
+Code quality and structure will improve day by day 😄
+
+---
